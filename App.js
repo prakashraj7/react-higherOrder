@@ -10,6 +10,7 @@ export default function App() {
       <h1 class="text-decoration-underline" style={{ textAlign: 'center' }}>
         Prakash HOC simple!
       </h1>
+
       <br />
       <HigherOrderz />
       <Counts />
